@@ -1,0 +1,5 @@
+Letters = 12
+Spaces = 2
+Commas = 0
+Fulstops = 0
+Numbers = 0
