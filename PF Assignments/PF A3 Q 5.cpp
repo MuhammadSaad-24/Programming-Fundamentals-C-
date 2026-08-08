@@ -237,7 +237,7 @@ int main()
 	cout << "Cross Product : " << endl;
 	crosspooduct(setA, setB, setAnoe, setBnoe);*/
 	cout << "Power Set : " << endl;
-	powerset(setA, setAnoe);
+	//powerset(setA, setAnoe);
 	cout << "Clone : " << endl;
 	clone(setA, setAnoe, capacity, newset, newnoe, newsetcapacity);
 }
